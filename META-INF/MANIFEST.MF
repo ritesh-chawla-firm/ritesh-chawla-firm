@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: webservices-client-integeral-framework
+Bundle-SymbolicName: webservices-client-integeral-framework
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-16
+Automatic-Module-Name: webservices.client.integeral.framework
+Export-Package: com.max.finite.digits.code.integral.framework
